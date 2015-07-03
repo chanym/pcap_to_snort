@@ -10,6 +10,3 @@ Usage - ./pcap_to_snort.rb [pcap] -i [intelligent feed txt file]
 
 Note: Intelligent feed txt file must not be empty
 
-Example - ./pcap_to_snort.rb <pcap file>
-
-Example - ./pcap_to_snort.rb <pcap file> -i <intelligent feed file>
